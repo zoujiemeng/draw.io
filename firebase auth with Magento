@@ -1,1 +1,249 @@
-<mxfile host="app.diagrams.net" modified="2020-03-18T08:57:21.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="oQCc7orY2G59POna-6QN" version="12.8.6" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3Vrbcto6FP0aZnIekjGWbzwGkrRnJp3JNA9tnxhjC6PUWIwsApyvP1u2hC8SNikhtM1LrC3rtvbW0tI2AzRZbj+xcLX4QmOcDmwr3g7Q3cC2h/YogH/CsistfuCWhoSRWL5UGZ7Jf1gaLWldkxjnjRc5pSknq6YxolmGI96whYzRTfO1OU2bo67CBGuG5yhMdes3EvOFtA69UVXxGZNkIYcObK+smIXRz4TRdSbHG9hoXvyV1ctQ9SUXmi/CmG5qJnQ/QBNGKS+fltsJTgW2Cray3cOB2v28Gc74MQ3sssFrmK7l0m9F+3SdkAweKBOAiomTiNHrHLNXEmE5db5TcOUbskzDDErjzYJw/LwKI1G1gejQZyQn+YoZx9uaSc7wE6ZLzNkOXpG1tifR2qn4QmV5U/kG2d6NjLFFzTGu58uokBGR7HvfD/gVIijMEljMfsSh56je9mMG2piBpQ+opqbGC1OOWRZyPBZBkdedAQ+11VamwkVmd/m6u57+BQPO4hUlALBwN4Qigo2ExlcRwzDyYGIPbq01OO8fzXO6d+y3eicIGkAFvobTcGgAyrUOO6aBUAccq28v/ujrePPkvu6i6eN68xgvr11XAwnWlwvvhrAti6WR+a6GUwnQy4YXNPMTZwdg0jAxIHcsTEP/0jgpLqvhlAA9YTYtMJiSbE6v9IgJU5Jk8BjBujEz7nhA9HS8PO/Gb25B5ARqU9ZBc23jxn8H2JAG0ANheBbmH86AbuBpfKRzoJGQXP8dkAg0JMI1X9yU/CKYxRAo+rLRW5cdoNaqP5JcVL/mRU+jdc7pcir5ouJcUC4DeyLGjmPCCc3CdBqlIVnmJ+2lk3Bsn58m7vHOBeNQg5FhvmZCXojIEa8C0xSzgcmAUQDYAgrOt1sh66BEV4A3GuecAfITmoJEEa+ghwcL/qAG3n0gYjp3QygVWgyLuVgHgczpmkW4Eek8ZAnmzUDAcUM06mgznIacvDY15CnYORp0X0B4Zpx+NP8E3mX5x3yAeYcjK4yXJJuaD3Phx2dZpIwvaCI26X1lbQQNGlfvPFK6knH1gjnfyYsL0AIF04IvVdQdjk5jKDW94+hRaRY6nh6rZqDcD4rXzmnWdQbm05qHzqoynG5mRG2VYTuWTo7n0xhmh+nnbYMzpyVj/qVx7bnHxrV/ybj29HtGQxqAKKrpglq4/07RjtDo8tGu32oFQSgUf0OOcGyDgDofarauRPd0UKIED13X1/eRT1C3Jfx77fmHeIZVl6W7ba3qbqcKGaz2u+yuKNRaiWLVrCipdgdVS50/lDTrpQqVFOjVcNLn1o1lq60hnX49lH0cTS+y9yeZmdmL8baWcvxW0qhcjmxn17J3ra5aY9P5PMdci6y3pZiM8Dm6iJ+kBDyTg/GK0FxeebKYUXX/2eCZvmf7dWrPVu12G+pPFO7fOVqk/nlpQvMW0FnkkZZp3nmR583wZn8na7kNPMJ7lEBgzxAocjSeA3vU7LGLg9gRJ2CbroWnSRSmt7JiSeI4NUdGm4iOCpWOSO5ItDTcObIMGaeRp/vTQYfj56TD0dd3HgQiFvRTcL6645S5zUpuRBHOc1U5Kf3aaiGukUBmnBFc9FYlt8Basmxeb9vsU2u+v5pWrW/OeGb/inftkaZ/jj/JR+dysWtrLi6z+rA3ROMrlRipsiU6sX6A+Fen//ANp3+LDOZBhKOoR39IvWD9il7ovID0H/mO02Tz9znxh77X6NZGrY9S5XbpP++RY3V31Csc3lUq6B8Q9LA8T+LOIAUlEnUlGBhj4mJ5kEMf79Q2X9FcuAhGW9B4UOVDG0nSOWur/YtyQbX/f9Rqem4Cb9zZJyUdDJHSeUHov0l4lwwiv+Mq2Dyf/7Dk0LF+8gz7vOPz5kG2vwa6dwJ0Gr+f/+Ll69qgJuG8VKjyGdCDl3BN9f2tETA6MgL8M9E9FKsf6JSOrn4Fhe7/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-19T03:29:59.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="aaKioDanKwDzE7hSKYhw" version="12.8.6" type="github" pages="2">
+  <diagram name="new_user" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1298" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="A plugin or a micro-service" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="260" y="123" width="260" height="567" as="geometry">
+            <mxRectangle x="164.5" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="API endpoint &#xa;(create user)" style="" parent="2" vertex="1">
+          <mxGeometry x="88" y="87" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-55" value="parse and verify&#xa; jwt token" style="" parent="2" vertex="1">
+          <mxGeometry x="88" y="177" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-69" value="gather_token_info()" style="align=center;whiteSpace=wrap;" parent="2" vertex="1">
+          <mxGeometry x="66.75" y="348.5" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="2" source="UKgyDuU1YtIQypH-rQnB-34" target="pWj79RBwP5vyc_LuwLdm-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="2">
+          <mxGeometry x="113" y="447" width="60" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Firebase" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="520" y="123" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="auth.createuser()" style="strokeColor=#FF9933;" parent="3" vertex="1">
+          <mxGeometry x="83.5" y="87" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="auth.create_custom_token&#xa;(uid, additional_claims)" style="align=center;whiteSpace=wrap;strokeColor=#FF9933;" parent="3" vertex="1">
+          <mxGeometry x="60" y="177" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="return user info with uid" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Magento" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="800" y="123" width="346.5" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-66" value="return admin_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="4" source="pWj79RBwP5vyc_LuwLdm-56" target="pWj79RBwP5vyc_LuwLdm-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-56" value="get_admin_token()" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" parent="4" vertex="1">
+          <mxGeometry x="21.5" y="290" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-68" value="return user_info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="4" source="pWj79RBwP5vyc_LuwLdm-65" target="pWj79RBwP5vyc_LuwLdm-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-65" value="create_customer(&#xa;admin_token)" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" parent="4" vertex="1">
+          <mxGeometry x="21.5" y="389" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-67" value="get_customer_token()" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" parent="4" vertex="1">
+          <mxGeometry x="21.5" y="477" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-26" value="customer user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="4" source="UKgyDuU1YtIQypH-rQnB-23" target="pWj79RBwP5vyc_LuwLdm-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-33" value="admin user/shop user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="4" source="UKgyDuU1YtIQypH-rQnB-23" target="UKgyDuU1YtIQypH-rQnB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="4">
+          <mxGeometry x="20" y="217" width="1.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-38" value="user_info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="4" source="UKgyDuU1YtIQypH-rQnB-28" target="UKgyDuU1YtIQypH-rQnB-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-28" value="invoke CLI to create&#xa;new admin account" style="align=center;whiteSpace=wrap;strokeColor=#00FF00;" vertex="1" parent="4">
+          <mxGeometry x="180" y="290" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-31" value="get_admin_token()" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" vertex="1" parent="4">
+          <mxGeometry x="180" y="477" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="return custom jwt token" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10" target="pWj79RBwP5vyc_LuwLdm-55" edge="1">
+          <mxGeometry x="0.0239" y="-15" relative="1" as="geometry">
+            <mxPoint x="606.5" y="473" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-41" value="Clients (ios, android, web)" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="30" y="123" width="230" height="570" as="geometry">
+            <mxRectangle x="164.5" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-50" value="Sign-in for new user" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="pWj79RBwP5vyc_LuwLdm-41" vertex="1">
+          <mxGeometry x="58" y="90.5" width="96" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-71" value="Receive jwt_token and&#xa;access_token, use jwt_token to retrieve Firebase resources, use access_token to retrieve Magento resources." style="align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="pWj79RBwP5vyc_LuwLdm-41" vertex="1">
+          <mxGeometry x="29.75" y="327" width="152.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-52" value="API call (with user info)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry x="0.0244" y="15" relative="1" as="geometry">
+            <mxPoint x="176" y="237" as="sourcePoint" />
+            <mxPoint x="340" y="237" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="1" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-57" value="API call (post method with user info from jwt token)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pWj79RBwP5vyc_LuwLdm-55" target="UKgyDuU1YtIQypH-rQnB-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-70" value="return access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pWj79RBwP5vyc_LuwLdm-67" target="UKgyDuU1YtIQypH-rQnB-34" edge="1">
+          <mxGeometry x="-0.0483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pWj79RBwP5vyc_LuwLdm-72" value="jwt_token&lt;br&gt;access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="1" source="pWj79RBwP5vyc_LuwLdm-69" target="pWj79RBwP5vyc_LuwLdm-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKgyDuU1YtIQypH-rQnB-37" value="return access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="1" source="UKgyDuU1YtIQypH-rQnB-31" target="UKgyDuU1YtIQypH-rQnB-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ItPnMGBPB0_B2hASfOWM-21" value="Magento CLI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF00;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="940" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ItPnMGBPB0_B2hASfOWM-23" value="Magento RestAPI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ItPnMGBPB0_B2hASfOWM-24" value="Firebase SDK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF9933;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KPta5uNdLjuWQRKLHQtp" name="exist_user">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="9N0Xo8044_n0koSoYy1F-0" />
+        <mxCell id="9N0Xo8044_n0koSoYy1F-1" parent="9N0Xo8044_n0koSoYy1F-0" />
+        <mxCell id="ARx3RII05reF-dd1_RJn-0" value="A plugin or a micro-service" style="swimlane;whiteSpace=wrap" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="260" y="123" width="260" height="567" as="geometry">
+            <mxRectangle x="164.5" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-1" value="API endpoint &#xa;(user login)" style="" vertex="1" parent="ARx3RII05reF-dd1_RJn-0">
+          <mxGeometry x="88" y="87" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-2" value="parse and verify&#xa; jwt token" style="" vertex="1" parent="ARx3RII05reF-dd1_RJn-0">
+          <mxGeometry x="88" y="177" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-3" value="gather_token_info()" style="align=center;whiteSpace=wrap;" vertex="1" parent="ARx3RII05reF-dd1_RJn-0">
+          <mxGeometry x="66.75" y="348.5" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="ARx3RII05reF-dd1_RJn-0" source="ARx3RII05reF-dd1_RJn-5" target="ARx3RII05reF-dd1_RJn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="ARx3RII05reF-dd1_RJn-0">
+          <mxGeometry x="113" y="447" width="60" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-6" value="Firebase" style="swimlane;whiteSpace=wrap" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="520" y="123" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-7" value="auth.get_user_by_email(email)" style="align=center;strokeColor=#FF9933;" vertex="1" parent="ARx3RII05reF-dd1_RJn-6">
+          <mxGeometry x="51.75" y="87" width="176.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-8" value="auth.create_custom_token&#xa;(uid, additional_claims)" style="align=center;whiteSpace=wrap;strokeColor=#FF9933;" vertex="1" parent="ARx3RII05reF-dd1_RJn-6">
+          <mxGeometry x="60" y="177" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-9" value="return user info with uid" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="ARx3RII05reF-dd1_RJn-6" source="ARx3RII05reF-dd1_RJn-7" target="ARx3RII05reF-dd1_RJn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-10" value="Magento" style="swimlane;whiteSpace=wrap" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="800" y="123" width="346.5" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-15" value="get_customer_token()" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" vertex="1" parent="ARx3RII05reF-dd1_RJn-10">
+          <mxGeometry x="21.5" y="377" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-16" value="customer user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="ARx3RII05reF-dd1_RJn-10" source="ARx3RII05reF-dd1_RJn-18" target="ARx3RII05reF-dd1_RJn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97.75" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-17" value="admin user/shop user" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="ARx3RII05reF-dd1_RJn-10" source="ARx3RII05reF-dd1_RJn-18" target="ARx3RII05reF-dd1_RJn-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256.25" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="ARx3RII05reF-dd1_RJn-10">
+          <mxGeometry x="20" y="217" width="1.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-21" value="get_admin_token()" style="align=center;whiteSpace=wrap;strokeColor=#0000FF;" vertex="1" parent="ARx3RII05reF-dd1_RJn-10">
+          <mxGeometry x="190" y="377" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-22" value="return custom jwt token" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-8" target="ARx3RII05reF-dd1_RJn-2">
+          <mxGeometry x="0.0239" y="-15" relative="1" as="geometry">
+            <mxPoint x="606.5" y="473" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-23" value="Clients (ios, android, web)" style="swimlane;whiteSpace=wrap" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="30" y="123" width="230" height="570" as="geometry">
+            <mxRectangle x="164.5" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-24" value="Login for exist user" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ARx3RII05reF-dd1_RJn-23">
+          <mxGeometry x="58" y="90.5" width="96" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-25" value="Receive jwt_token and&#xa;access_token, use jwt_token to retrieve Firebase resources, use access_token to retrieve Magento resources." style="align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ARx3RII05reF-dd1_RJn-23">
+          <mxGeometry x="29.75" y="327" width="152.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-26" value="API call (with user info)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="0.0244" y="15" relative="1" as="geometry">
+            <mxPoint x="176" y="237" as="sourcePoint" />
+            <mxPoint x="340" y="237" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-27" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-1" target="ARx3RII05reF-dd1_RJn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-28" value="API call (post method with user info from jwt token)" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-2" target="ARx3RII05reF-dd1_RJn-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-29" value="return access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-15" target="ARx3RII05reF-dd1_RJn-5">
+          <mxGeometry x="-0.0483" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-30" value="jwt_token&lt;br&gt;access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-3" target="ARx3RII05reF-dd1_RJn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ARx3RII05reF-dd1_RJn-31" value="return access_token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="9N0Xo8044_n0koSoYy1F-1" source="ARx3RII05reF-dd1_RJn-21" target="ARx3RII05reF-dd1_RJn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="650" />
+              <mxPoint x="388" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oq1IUlH0RvO4BttIlX9o-0" value="Magento CLI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF00;fillColor=#FFFFFF;align=center;" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="940" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Oq1IUlH0RvO4BttIlX9o-1" value="Magento RestAPI" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000FF;fillColor=#FFFFFF;align=center;" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="770" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="Oq1IUlH0RvO4BttIlX9o-2" value="Firebase SDK" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF9933;fillColor=#FFFFFF;align=center;" vertex="1" parent="9N0Xo8044_n0koSoYy1F-1">
+          <mxGeometry x="600" y="30" width="140" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
